@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Bky3AgbtAwZbfXIE0h0gCSeqeGibf6OL3mygZ48f1Ef+Or5YR/3OM7lW66E9Kn6h/r0TQ4+UAa/tHv5ZKDOm9Q==",
+  "dgSpecHash": "+oly9mbHjY6VlUztc7HOSg8REvjG+t2hNPC8rwDWs87j1IeY9GJST2APdLV6HHu0zyi2QW03Kq7EXlvOPLAqZQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Пользователь\\source\\repos\\oop-task\\UI-TASK-PR-9-Gorin\\UI-TASK-PR-9-Gorin.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Пользователь\\.nuget\\packages\\materialdesigncolors\\2.0.9\\materialdesigncolors.2.0.9.nupkg.sha512",
+    "C:\\Users\\Пользователь\\.nuget\\packages\\materialdesignthemes\\4.6.1\\materialdesignthemes.4.6.1.nupkg.sha512"
+  ],
   "logs": []
 }

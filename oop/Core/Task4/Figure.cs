@@ -44,7 +44,7 @@ namespace oop.Core.Task4
             return 0;
         }
 
-        public void PerimeterCalculation()
+        public void PerimeterCalculator()
         {
 
         }
